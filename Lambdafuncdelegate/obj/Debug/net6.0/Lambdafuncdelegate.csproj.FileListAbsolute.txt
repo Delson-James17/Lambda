@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\bin\Debug\net6.0\Lambdafuncdelegate.exe
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\bin\Debug\net6.0\Lambdafuncdelegate.deps.json
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\bin\Debug\net6.0\Lambdafuncdelegate.runtimeconfig.json
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\bin\Debug\net6.0\Lambdafuncdelegate.dll
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\bin\Debug\net6.0\Lambdafuncdelegate.pdb
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.AssemblyInfo.cs
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.dll
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\refint\Lambdafuncdelegate.dll
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.pdb
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\Lambdafuncdelegate.genruntimeconfig.cache
+C:\Users\user\source\repos\Lambdafuncdelegate\Lambdafuncdelegate\obj\Debug\net6.0\ref\Lambdafuncdelegate.dll
